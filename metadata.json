@@ -1,0 +1,6 @@
+{
+  "name": "Bash On Air",
+  "description": "Premium enterprise-grade fintech and trading education platform providing Forex, Crypto, and Indices courses, live classes, real-time trading signals, and expert mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
